@@ -86,7 +86,7 @@ year        =  {2023},
 }
 ```
 
-## 🤝Tanks
+## 🤝Acknowledgement
 
 Our implementation is built upon the [DEIM](<https://github.com/Intellindust-AI-Lab/DEIM>) codebase. For parts that are not the core contributions of our paper, we refer the readers to the original repository
 
