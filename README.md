@@ -47,8 +47,7 @@ If you find our work and our dataset IRBlurUAV useful for your research, please 
 ```
 
 In additoin to the above paper, please also consider citing the following references. Thank you!
-```
-
+```bibtex
 @inproceedings{2025CVPR_UniCD,
     title     = {Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared {UAV} Target Detection},
     author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
