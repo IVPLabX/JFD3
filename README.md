@@ -36,7 +36,7 @@ We developed the IRBlurUAV dataset, which involved considerable effort. If you u
 
 ## 🔗 Citation
 If you find our work and our dataset IRBlurUAV useful for your research, please consider citing our paper. Thank you!
-```
+```bibtex
 @inproceedings{2026AAAI_JFD3,
   title     = {Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection},
   author    = {Xiaolin Wang and Houzhang Fang and Qingshan Li and Lu Wang and Yi Chang and Luxin Yan},
