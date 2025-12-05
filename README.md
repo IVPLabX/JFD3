@@ -36,7 +36,13 @@ The IRBlurUAV dataset used in our paper can be downloaded via the following link
 ## 🔗 Citation
 If you find our work useful for your research, please consider citing our paper. Thank you!
 ```
-
+@inproceedings{2026AAAI_JFD3,
+  title     = {Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection},
+  author    = {Xiaolin Wang and Houzhang Fang and Qingshan Li and Lu Wang and Yi Chang and Luxin Yan},
+  booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026},
+  pages     = { },
+}
 ```
 
 In additoin to the above paper, please also consider citing the following references. Thank you!
