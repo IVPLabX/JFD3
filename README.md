@@ -29,7 +29,7 @@ Infrared unmanned aerial vehicle (UAV) target images often suffer from motion bl
 </p>
 Overall architecture of the proposed JFD\textsuperscript{3}.
 
-## IRBlurUAV Dataset Download Link
+## Dataset Download Link
 
 Our custom-built dataset (IRBlurUAV) can be downloaded via the following link:
 
