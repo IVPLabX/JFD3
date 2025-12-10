@@ -1,12 +1,20 @@
-# JFD3
-Official code for the AAAI 2026 paper “Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection”[![arXiv](https://img.shields.io/badge/arXiv-2511.14371-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2511.14371)
-
-## Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection [[PDF](https://arxiv.org/pdf/2511.14371)], Supplemental Material [[PDF](https://github.com/IVPLaboratory/JFD3/blob/main/Supplementary%20Material.pdf)] 
+<div align="center">
+  
+## Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection 
 
 Authors: Xiaolin Wang<sup>1</sup>, Houzhang Fang<sup>1</sup>, Qingshan Li<sup>1</sup>, Lu Wang<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>
   
 <sup>1</sup>Xidian University,  <sup>2</sup>Huazhong University of Science and Technology
 
+**Proceedings of the AAAI Conference on Artificial Intelligence 2026**
+
+<h4>
+  <a href="https://arxiv.org/pdf/2511.14371">[PDF|arXiv]</a>
+  <a href="https://github.com/IVPLaboratory/JFD3/blob/main/Supplementary%20Material.pdf">[Supplementary Material]</a>
+  <a href="#citation">[BibTex]</a>
+</h4>
+
+</div>
 
 🎯 We have first compiled the relevant code for the core contribution points, and the complete code is currently being compiled. We will update the supplementary materials and code in the future.
 
@@ -21,17 +29,14 @@ Infrared unmanned aerial vehicle (UAV) target images often suffer from motion bl
 </p>
 Overall architecture of the proposed JFD\textsuperscript{3}.
 
-## Dataset Download Link
+## IRBlurUAV Dataset Download Link
 
-The IRBlurUAV dataset used in our paper can be downloaded via the following link:
+Our custom-built dataset (IRBlurUAV) can be downloaded via the following link:
 
-- Download Dataset Here -[Baidu Netdisk](<https://pan.baidu.com/s/170bAY4mJkAqbCf4ythljvA?pwd=xpuv>),    
+- Download Dataset Here -[Baidu Netdisk](<https://pan.baidu.com/s/170bAY4mJkAqbCf4ythljvA?pwd=xpuv>),  
                         -[Google Drive(TODO)](<>)
 
-We developed the IRBlurUAV dataset, which involved considerable effort. If you use this dataset in your work, please cite our paper. Thank you!
-
-
-
+If you utilize this dataset in your research, please consider citing our paper  [[`BibTex`](#citation)]. Your acknowledgement is greatly appreciated!
 
 
 ## 🔗 Citation
