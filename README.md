@@ -38,8 +38,7 @@ Our custom-built dataset (IRBlurUAV) can be downloaded via the following link:
 
 If you utilize this dataset in your research, please consider citing our paper  [[`BibTex`](#citation)]. Your acknowledgement is greatly appreciated!
 
-<a id="citation"></a> ```
-**结果：** 页面上什么都看不到。`` 才是让内容在渲染时“隐身”的唯一开关。
+<a id="citation"></a> ``cccc"
 
 ## 🔗 Citation
 If you find our work and our dataset IRBlurUAV useful for your research, please consider citing our paper. Thank you!
