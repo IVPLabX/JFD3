@@ -38,7 +38,7 @@ Our custom-built dataset (IRBlurUAV) can be downloaded via the following link:
 
 If you utilize this dataset in your research, please consider citing our paper  [[`BibTex`](#citation)]. Your acknowledgement is greatly appreciated!
 
-<a id="citation"></a> `dddddd`
+<a id="citation"></a> ```
 
 ## 🔗 Citation
 If you find our work and our dataset IRBlurUAV useful for your research, please consider citing our paper. Thank you!
