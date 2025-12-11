@@ -12,6 +12,7 @@ Authors: Xiaolin Wang<sup>1</sup>, Houzhang Fang<sup>1</sup>, Qingshan Li<sup>1<
   <a href="https://arxiv.org/pdf/2511.14371">[Paper PDF|arXiv]</a>
   <a href="https://github.com/IVPLaboratory/JFD3/blob/main/Supplementary%20Material.pdf">[Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
+  <a href="https://github.com/IVPLabX/JFD3/blob/main/aaai2026_CameraReady%20-chinese.pdf">[中文版论文]</a>   
 </h4>
 
 </div>
@@ -26,8 +27,10 @@ Infrared unmanned aerial vehicle (UAV) target images often suffer from motion bl
 ## Network Architecture
 <p align="center">
   <img src="figs/JFD3.png" width="auto" alt="accessibility text">
+  Overall architecture of the proposed JFD<sup>3</sup>.
 </p>
-Overall architecture of the proposed JFD\textsuperscript{3}.
+
+
 
 ## Dataset Download Link
 
