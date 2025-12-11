@@ -9,7 +9,7 @@ Authors: Xiaolin Wang<sup>1</sup>, Houzhang Fang<sup>1</sup>, Qingshan Li<sup>1<
 **Proceedings of the AAAI Conference on Artificial Intelligence 2026**
 
 <h4>
-  <a href="https://arxiv.org/pdf/2511.14371">[PDF|arXiv]</a>
+  <a href="https://arxiv.org/pdf/2511.14371">[Paper PDF|arXiv]</a>
   <a href="https://github.com/IVPLaboratory/JFD3/blob/main/Supplementary%20Material.pdf">[Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
 </h4>
