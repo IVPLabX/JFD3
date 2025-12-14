@@ -11,7 +11,7 @@ Authors: Xiaolin Wang<sup>1</sup>, Houzhang Fang<sup>1</sup>, Qingshan Li<sup>1<
 <h4>
   <a href="https://arxiv.org/pdf/2511.14371">[Paper PDF|arXiv]</a>
   <a href="https://github.com/IVPLaboratory/JFD3/blob/main/Supplementary%20Material.pdf">[Supplementary Material]</a>
-  <a href="https://github.com/IVPLabX/JFD3/blob/main/aaai2026_CameraReady%20-chinese.pdf">[中文版论文]</a>  
+  <a href="https://github.com/IVPLabX/JFD3/blob/main/AAAI2026_JFD3_chinese.pdf">[中文版论文]</a>  
  <a href="#citation">[BibTex]</a>
 </h4>
 
